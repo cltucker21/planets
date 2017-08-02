@@ -4,3 +4,6 @@ Mars is Red
 Neptune is blue
 The sun is very hot
 don't touch it
+
+Love,
+Clara
